@@ -4,7 +4,6 @@ import logging
 
 loader_blueprint = Blueprint('loader_blueprint', __name__, template_folder='templates', url_prefix='/')
 logging.basicConfig(filename='basic.log', level=logging.INFO)
-errors_blueprint = Blueprint('errors_blueprint', __name__, template_folder='templates')
 logging.basicConfig(filename='basic.log', level=logging.ERROR)
 
 @loader_blueprint.route('/post')
@@ -26,6 +25,3 @@ def upload_post():
 
     return render_template('post_uploaded.html', picture_url=picture_url, content=content)
 
-@errors_blueprint.errorhandler(404)
-def not_found(e):
-    return "Ошибка при загрузке!"
