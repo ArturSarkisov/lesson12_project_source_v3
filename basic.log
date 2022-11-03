@@ -1,0 +1,437 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-917-245
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-917-245
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-917-245
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-917-245
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\main\\view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-917-245
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-917-245
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:58:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:58:28] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:58:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:58:33] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:58:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:59:02] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:59:02] "GET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:59:02] "GET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:59:02] "GET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:59:02] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:19] "GET /search?s=cat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:24] "[33mGET /post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:28] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:37] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:37] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:37] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:37] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:00:37] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\loader\\view.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:06] "GET /search?s=cata HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:08] "[33mGET /post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:15] "GET /search?s=cat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:16] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:24] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:24] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:24] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:24] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:05:24] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:06:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:06:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:06:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:06:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:06:56] "GET /search?s=cat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:06:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:06:57] "[33mGET /post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:06:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:06:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:07:00] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:07:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:07:07] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:07:07] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:07:07] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:07:07] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:07:07] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:07:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:07:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\loader\\view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:10:10] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:10:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:10:19] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:10:19] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:10:19] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:10:19] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:10:19] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\loader\\view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:28] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:31] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:37] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:37] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:37] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:37] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:17:37] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:20:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:20:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:20:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:20:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:21:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:21:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:21:06] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:21:06] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:21:06] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:21:06] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:21:06] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:22:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:22:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:22:24] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:22:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:22:30] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:22:30] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:22:30] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:22:30] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:22:30] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:25:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:25:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:25:40] "[35m[1mGET /search?s=cat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:25:40] "GET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:25:40] "GET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:25:40] "GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:25:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:42] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:44] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:51] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:51] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:51] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:51] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:26:51] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:48] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:50] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:55] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:55] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:55] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:55] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:27:55] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\loader\\view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:30:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:30:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:30:23] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:30:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:30:27] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:30:27] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:30:27] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:30:27] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:30:27] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:33:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:33:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:33:47] "[35m[1mGET /search?s=cat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:33:47] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:33:47] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:33:47] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:34] "[35m[1mGET /search?s=cat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:37] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:45] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:45] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:45] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:45] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:41:45] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:47:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:47:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:47:34] "[35m[1mGET /search?s=cat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:47:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:47:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:47:34] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:12] "[35m[1mGET /search?s=cat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:17] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:None: не изображение!
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:20] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:24] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:28] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:28] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:28] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:29] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:51:29] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:46] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:49] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:49] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:49] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:49] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:55] "[35m[1mGET /search?s=arara HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:55] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:55] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:52:55] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:58:09] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:58:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:58:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 13:58:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:01:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:01:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:02:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:02:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:02:24] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:02:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:02:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:02:24] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\main\\view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:13:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:13:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:13:20] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:13:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:13:28] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:13:28] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:13:28] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:13:28] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:13:28] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Артур\\lesson12_project_source_v3\\loader\\view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:26:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:26:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:26:32] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:26:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:26:38] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:26:38] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:26:38] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:26:38] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:26:38] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:27:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:27:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:27:58] "[35m[1mGET /search?s=asa HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:27:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:27:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:27:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:33:06] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:33:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:33:11] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:33:11] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:33:11] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:33:11] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:33:11] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:38:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:38:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:38:53] "[35m[1mGET /search?s=cat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:38:53] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:38:53] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 11:38:53] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:12:48] "GET /search?s=cat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:12:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:12:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:12:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:12:52] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:12:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:12:57] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:12:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:12:57] "GET /uploads/images/cat.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:13:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:13:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:13:50] "GET /search?s=asd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:13:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2022 12:13:50] "[36mGET /uploads/images/cat.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-559-596
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:54] "GET /search?s=asd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:54] "GET /uploads/images/cat.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:54] "GET /search?s=asd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:54] "[36mGET /uploads/images/cat.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:56] "GET /search?s=asd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:56] "[36mGET /uploads/images/cat.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:16:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:00] "GET /search?s=cat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:06] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:12] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:12] "GET /uploads/images/cat.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:16] "GET /search?s=cat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:16] "[36mGET /uploads/images/cat.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:19] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:None: Не изображение!
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:33] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2022 14:17:39] "GET /post HTTP/1.1" 200 -
